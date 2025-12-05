@@ -1,28 +1,20 @@
 # Cloudflare CDN, https://www.cloudflare.com/ips
-# Update: Fri Dec 05 2025 07:45:51 GMT+0000 (Coordinated Universal Time)
-IP-CIDR,173.245.48.0/20
-IP-CIDR,103.21.244.0/22
-IP-CIDR,103.22.200.0/22
-IP-CIDR,103.31.4.0/22
-IP-CIDR,141.101.64.0/18
-IP-CIDR,108.162.192.0/18
-IP-CIDR,190.93.240.0/20
-IP-CIDR,188.114.96.0/20
-IP-CIDR,197.234.240.0/22
-IP-CIDR,198.41.128.0/17
-IP-CIDR,162.158.0.0/15
-IP-CIDR,104.16.0.0/13
-IP-CIDR,104.24.0.0/14
-IP-CIDR,172.64.0.0/13
-IP-CIDR,131.0.72.0/22
+# Update: Fri Dec 05 2025 08:53:52 GMT+0000 (Coordinated Universal Time)
+IP-CIDR,<html>
+IP-CIDR,<head><title>500 Internal Server Error</title></head>
+IP-CIDR,<body>
+IP-CIDR,<center><h1>500 Internal Server Error</h1></center>
+IP-CIDR,<hr><center>cloudflare</center>
+IP-CIDR,</body>
+IP-CIDR,</html>
 IP-CIDR,1.0.0.1/32
 IP-CIDR,1.1.1.1/32
-IP-CIDR6,2400:cb00::/32
-IP-CIDR6,2606:4700::/32
-IP-CIDR6,2803:f800::/32
-IP-CIDR6,2405:b500::/32
-IP-CIDR6,2405:8100::/32
-IP-CIDR6,2a06:98c0::/29
-IP-CIDR6,2c0f:f248::/32
+IP-CIDR6,<html>
+IP-CIDR6,<head><title>500 Internal Server Error</title></head>
+IP-CIDR6,<body>
+IP-CIDR6,<center><h1>500 Internal Server Error</h1></center>
+IP-CIDR6,<hr><center>cloudflare</center>
+IP-CIDR6,</body>
+IP-CIDR6,</html>
 IP-CIDR6,1.0.0.1/32
 IP-CIDR6,1.1.1.1/32
